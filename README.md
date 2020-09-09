@@ -42,16 +42,14 @@
 * https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2
 
 
-
-
-
-
-
 ## Datasets
 
 * https://github.com/brendenlake/omniglot
 * https://fasttext.cc/
 
+
+#### Drive Link for Docs
+* https://drive.google.com/drive/folders/1md5ZayU85yaKnx0d6LM63gR1NwQNd3pX?usp=sharing
 
 
 
