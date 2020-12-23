@@ -3,7 +3,10 @@
 This project is done within the scope of inzva AI Projects #5 August-November 2020. Check out other projects from the inzva GitHub.
 
   
+[Medium Post]: https://medium.com/@selim.seker00/logogram-language-generator-eb003293d51d .
+
 [Record]: https://www.youtube.com/watch?v=hTKlFtC7NMw of the final project presentation (in Turkish)
+
 
 
 ![wordsGif](./img/wordsGif.gif)<br/><br/>
