@@ -3,7 +3,11 @@
 This project is done within the scope of inzva AI Projects #5 August-November 2020. Check out other projects from the inzva GitHub.
 
   
-[Record]: https://www.youtube.com/watch?v=hTKlFtC7NMw of the final project presentation (in Turkish):
+[Record]: https://www.youtube.com/watch?v=hTKlFtC7NMw of the final project presentation (in Turkish)
+
+
+![wordsGif](./img/wordsGif.gif)<br/><br/>
+![logograms1_en_postprocess](./img/logograms1_en_postprocess.png)
 
 
 
