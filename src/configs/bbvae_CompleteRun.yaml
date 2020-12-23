@@ -1,0 +1,30 @@
+# latent_dim 300 to 128
+# batch_size 144 to 64
+
+model_params:
+  name: 'BetaVAE'
+  in_channels: 1
+  latent_dim: 128
+  loss_type: 'B'
+  gamma: 10.0
+  max_capacity: 25
+  Capacity_max_iter: 10000
+
+exp_params:
+  dataset: omniglot
+  data_path: "../../shared/Data/"
+  img_size: 64
+  batch_size: 64 # Better to have a square number
+  LR: 0.00005
+  weight_decay: 0.0
+  scheduler_gamma: 0.95
+
+trainer_params:
+  gpus: 1
+  max_nb_epochs: 70
+  max_epochs: 70
+
+logging_params:
+  save_dir: "logs/"
+  name: "BetaVAE_B_completeRun"
+  manual_seed: 1265

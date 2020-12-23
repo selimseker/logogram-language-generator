@@ -1,3 +1,8 @@
+# Logogram Language Generator
+
+This project is done within the scope of inzva AI Projects #5 August-November 2020. Check out other projects from the inzva GitHub.
+
+
 ## Readings
 
 #### Multilingual embedding: 
