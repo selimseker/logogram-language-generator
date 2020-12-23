@@ -2,6 +2,11 @@
 
 This project is done within the scope of inzva AI Projects #5 August-November 2020. Check out other projects from the inzva GitHub.
 
+  
+[Record]: https://www.youtube.com/watch?v=hTKlFtC7NMw of the final project presentation (in Turkish):
+
+
+
 
 ## Readings
 
@@ -35,6 +40,7 @@ This project is done within the scope of inzva AI Projects #5 August-November 20
 
 
 #### Generative Models:
+
 * https://arxiv.org/pdf/1312.6114.pdf
 
 * https://arxiv.org/pdf/1511.05644.pdf
@@ -55,10 +61,10 @@ This project is done within the scope of inzva AI Projects #5 August-November 20
 
 
 #### Drive Link for Docs
+
 * https://drive.google.com/drive/folders/1md5ZayU85yaKnx0d6LM63gR1NwQNd3pX?usp=sharing
 
 
 
 
 ![model](./img/model.svg)
-
